@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".FirstFragment">
+
+
+    <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_margin="8dp"
+                app:cardElevation="20dp"
+                app:cardCornerRadius="30dp">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical">
+
+
+                    <TextView
+                        android:id="@+id/textView2"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_horizontal"
+                        android:layout_margin="8dp"
+                        android:fontFamily="casual"
+                        android:text="About Us"
+                        android:textColor="#070000"
+                        android:textSize="34sp" />
+
+                    <TextView
+                        android:id="@+id/textView3"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_margin="8dp"
+                        android:fontFamily="sans-serif-condensed"
+                        android:padding="8dp"
+                        android:text="Lorem ipsum dolor sit amet consectetur adipisicing elit. Sed, quidem? Eaque, accusamus expedita ducimus omnis earum nostrum id labore natus beatae adipisci molestiae vitae tenetur, nesciunt enim aliquam maxime asperiores! Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eaque ea facere asperiores eum velit sequi exercitationem pariatur fugit aperiam, tenetur vero ut optio quo porro aspernatur quam! Quas, laborum illo. Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sequi facilis esse quis quia ex incidunt corrupti tempora, distinctio veniam qui velit dolorum fuga tenetur debitis placeat quaerat tempore quo modi! Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam dicta quod dolorum neque cumque porro molestiae voluptatem, sit a corporis voluptatibus laudantium exercitationem ipsum consequatur accusamus accusantium vel explicabo iste? accusantium minima"
+                        android:textAppearance="@style/TextAppearance.AppCompat.Body2"
+                        android:textSize="16sp" />
+
+                </LinearLayout>
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="8dp"
+                app:cardElevation="20dp"
+                app:cardCornerRadius="30dp">>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical">
+
+
+                    <TextView
+                        android:id="@+id/textView4"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_horizontal"
+                        android:layout_margin="8dp"
+                        android:fontFamily="casual"
+                        android:text="Abstract"
+                        android:textColor="#070000"
+                        android:textSize="34sp" />
+
+                    <TextView
+                        android:id="@+id/textView5"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_margin="8dp"
+                        android:fontFamily="sans-serif-condensed"
+                        android:padding="8dp"
+                        android:text="We have created a Web based platform to connect all the stake
+holders of the Agriculture system in India – The Farmers, The
+Consumers, The Corporates/Food Consultants and The NGOs.
+This web based platform encourages and connect them all who
+are working towards the advancement and development of
+Agriculture and helping the farmers live a happy and peaceful
+life receiving appropriate price for their produced crops, along
+with empowerment of rural women in agriculture. We aim to
+connect the farmers to the corporates and consultants to help
+them understand the technological advancements in
+agriculture. This platform is also for sharing information and
+highlighting issues related to Agricultural systems.\n
+• Creates a common platform for all kinds
+of farmers and small/ medium/ large
+scale businesses to have effective
+trading opportunity.\n
+• The farmers will be able to see and
+compare the various prices offered by
+the all for their harvest. Hence, choose
+and receive appropriate price for their
+harvest in a very easy and convenient
+way.\n
+• The farmers will be able to buy their
+agricultural ingredients at effective
+prices. Only eco-friendly products will
+be promoted.\n
+• The farmers will be able to ask their
+agricultural problems and doubts to our
+chatbot and experts as well from various
+educational institutes and research
+centers\n"
+                        android:textAppearance="@style/TextAppearance.AppCompat.Body2"
+                        android:textSize="16sp" />
+
+                </LinearLayout>
+            </androidx.cardview.widget.CardView>
+
+
+        </LinearLayout>
+        </ScrollView>
+
+
+</FrameLayout>

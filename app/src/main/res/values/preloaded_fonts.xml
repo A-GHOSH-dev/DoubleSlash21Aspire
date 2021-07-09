@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/acme</item>
+        <item>@font/alegreya_sans_sc_thin</item>
+        <item>@font/amaranth_bold_italic</item>
+        <item>@font/amita_bold</item>
+        <item>@font/andika</item>
+        <item>@font/anonymous_pro</item>
+        <item>@font/archivo_black</item>
+        <item>@font/contrail_one</item>
+        <item>@font/cousine_bold_italic</item>
+        <item>@font/croissant_one</item>
+        <item>@font/emilys_candy</item>
+        <item>@font/federo</item>
+        <item>@font/happy_monkey</item>
+    </array>
+</resources>
