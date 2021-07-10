@@ -1,20 +1,34 @@
 package com.example.krishisahayak;
 
+import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.fragment.app.FragmentManager;
 import androidx.viewpager2.widget.ViewPager2;
 
 import android.content.Intent;
 import android.os.Bundle;
+import android.widget.TextView;
 import android.widget.Toast;
 
 import com.google.android.material.tabs.TabLayout;
+import com.google.firebase.auth.FirebaseAuth;
+import com.google.firebase.auth.FirebaseUser;
+import com.google.firebase.database.DataSnapshot;
+import com.google.firebase.database.DatabaseError;
+import com.google.firebase.database.DatabaseReference;
+import com.google.firebase.database.FirebaseDatabase;
+import com.google.firebase.database.ValueEventListener;
 
 public class Home extends AppCompatActivity {
 
     TabLayout tabLayout;
     ViewPager2 viewPager;
     FragmentAdapter adapter;
+    FirebaseUser firebaseUser;
+    DatabaseReference reference;
+    String userID;
+
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -56,13 +70,7 @@ public class Home extends AppCompatActivity {
                 tabLayout.selectTab(tabLayout.getTabAt(position));
             }
         });
-//        Intent i =getIntent();
-//        int pos=i.getIntExtra("key",0);
-//        if(pos==1){
-//            Toast.makeText(Home.this,"it worked!",Toast.LENGTH_SHORT).show();
-//            Intent intent = new Intent(Home.this,Streekrishi.class);
-//            startActivity(intent);
-//        }
+
 
     }
 }
