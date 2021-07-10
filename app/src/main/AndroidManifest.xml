@@ -13,8 +13,10 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.MaterialComponents.DayNight.NoActionBar"
         tools:ignore="ExtraText">
-        <activity android:name=".streeKrishi"
-            android:parentActivityName=".Home"></activity>
+        <activity android:name=".Register"></activity>
+        <activity
+            android:name=".streeKrishi"
+            android:parentActivityName=".Home" />
         <activity android:name=".Trade" />
         <activity android:name=".Home" />
         <activity android:name=".MainActivity">

@@ -32,6 +32,7 @@ public class Home extends AppCompatActivity {
         tabLayout.addTab(tabLayout.newTab().setText("Customer's Corner"));
         tabLayout.addTab(tabLayout.newTab().setText("NGO/Consultant's Corner"));
         tabLayout.addTab(tabLayout.newTab().setText("Agro News"));
+        tabLayout.addTab(tabLayout.newTab().setText("Contact"));
 
         tabLayout.addOnTabSelectedListener(new TabLayout.OnTabSelectedListener() {
             @Override

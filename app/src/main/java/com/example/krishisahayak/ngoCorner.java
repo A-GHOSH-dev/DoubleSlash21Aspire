@@ -82,7 +82,7 @@ public class ngoCorner extends Fragment {
             card0.setOnClickListener(new View.OnClickListener() {
                 @Override
                 public void onClick(View v) {
-                    Intent i = new Intent(getActivity(),MainActivity.class);
+                    Intent i = new Intent(getActivity(),streeKrishi.class);
                     i.putExtra("key",2);
                     startActivity(i);
 //                    FragmentManager fragmentManager=getActivity().getSupportFragmentManager();

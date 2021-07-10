@@ -23,12 +23,14 @@ public class FragmentAdapter extends FragmentStateAdapter {
                 return new ngoCorner();
             case 4:
                 return new agroNews();
+            case 5:
+                return new Contact();
         }
         return new FirstFragment();
     }
 
     @Override
     public int getItemCount() {
-        return 5;
+        return 5+1;
     }
 }
