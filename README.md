@@ -26,7 +26,7 @@ The main Screen Where the user is requested to login and sign up,using Firebase 
 
 <br />
 <br />
-####Home Screen <br />
+## **Home Screen**<br />
 ![image](https://user-images.githubusercontent.com/76211430/125184674-5d3b9380-e23d-11eb-9fbb-2ea41d8d488d.png)
 <br />
 This is a small section about our motive
