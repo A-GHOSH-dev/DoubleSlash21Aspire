@@ -52,8 +52,8 @@
                     app:cardUseCompatPadding="true">
 
                     <LinearLayout
-                        android:layout_width="wrap_content"
-                        android:layout_height="wrap_content"
+                        android:layout_width="184dp"
+                        android:layout_height="157dp"
                         android:layout_gravity="center_vertical|center_horizontal"
                         android:gravity="center"
                         android:orientation="vertical">
@@ -66,8 +66,8 @@
                             android:src="@drawable/agriculture" />
 
                         <TextView
-                            android:layout_width="wrap_content"
-                            android:layout_height="wrap_content"
+                            android:layout_width="101dp"
+                            android:layout_height="35dp"
                             android:gravity="center_horizontal"
                             android:padding="5dp"
                             android:text="Agriculture"
@@ -86,15 +86,13 @@
                     android:layout_column="1"
                     android:layout_columnWeight="1"
                     android:layout_gravity="fill"
-                    android:layout_marginStart="10dp"
-                    android:layout_marginLeft="10dp"
                     app:cardCornerRadius="8dp"
                     app:cardElevation="8dp"
                     app:cardUseCompatPadding="true">
 
                     <LinearLayout
-                        android:layout_width="wrap_content"
-                        android:layout_height="wrap_content"
+                        android:layout_width="180dp"
+                        android:layout_height="165dp"
                         android:layout_gravity="center_vertical|center_horizontal"
                         android:gravity="center"
                         android:orientation="vertical">
@@ -107,8 +105,8 @@
                             android:src="@drawable/aquaculture" />
 
                         <TextView
-                            android:layout_width="wrap_content"
-                            android:layout_height="wrap_content"
+                            android:layout_width="102dp"
+                            android:layout_height="35dp"
                             android:gravity="center_horizontal"
                             android:padding="5dp"
                             android:text="Aquaculture"
@@ -134,8 +132,8 @@
                     app:cardUseCompatPadding="true">
 
                     <LinearLayout
-                        android:layout_width="wrap_content"
-                        android:layout_height="wrap_content"
+                        android:layout_width="180dp"
+                        android:layout_height="160dp"
                         android:layout_gravity="center_vertical|center_horizontal"
                         android:gravity="center"
                         android:orientation="vertical">
@@ -148,8 +146,8 @@
                             android:src="@drawable/apiculture" />
 
                         <TextView
-                            android:layout_width="wrap_content"
-                            android:layout_height="wrap_content"
+                            android:layout_width="94dp"
+                            android:layout_height="35dp"
                             android:gravity="center_horizontal"
                             android:padding="5dp"
                             android:text="Apiculture"
@@ -162,21 +160,19 @@
                 <androidx.cardview.widget.CardView
                     android:id="@+id/card3"
                     android:layout_width="180dp"
-                    android:layout_height="wrap_content"
+                    android:layout_height="180dp"
                     android:layout_row="1"
                     android:layout_rowWeight="1"
                     android:layout_column="1"
                     android:layout_columnWeight="1"
                     android:layout_gravity="fill"
-                    android:layout_marginStart="10dp"
-                    android:layout_marginLeft="10dp"
                     app:cardCornerRadius="8dp"
                     app:cardElevation="8dp"
                     app:cardUseCompatPadding="true">
 
                     <LinearLayout
-                        android:layout_width="wrap_content"
-                        android:layout_height="wrap_content"
+                        android:layout_width="180dp"
+                        android:layout_height="160dp"
                         android:layout_gravity="center_vertical|center_horizontal"
                         android:gravity="center"
                         android:orientation="vertical">
@@ -189,8 +185,8 @@
                             android:src="@drawable/livestock" />
 
                         <TextView
-                            android:layout_width="wrap_content"
-                            android:layout_height="wrap_content"
+                            android:layout_width="93dp"
+                            android:layout_height="35dp"
                             android:gravity="center_horizontal"
                             android:padding="5dp"
                             android:text="Livestock"
@@ -216,8 +212,8 @@
                     app:cardUseCompatPadding="true">
 
                     <LinearLayout
-                        android:layout_width="wrap_content"
-                        android:layout_height="wrap_content"
+                        android:layout_width="180dp"
+                        android:layout_height="180dp"
                         android:layout_gravity="center_vertical|center_horizontal"
                         android:gravity="center"
                         android:orientation="vertical">
@@ -230,8 +226,8 @@
                             android:src="@drawable/agrostock" />
 
                         <TextView
-                            android:layout_width="wrap_content"
-                            android:layout_height="wrap_content"
+                            android:layout_width="123dp"
+                            android:layout_height="35dp"
                             android:gravity="center_horizontal"
                             android:padding="5dp"
                             android:text="Agro Bot"
@@ -250,15 +246,13 @@
                     android:layout_column="1"
                     android:layout_columnWeight="1"
                     android:layout_gravity="fill"
-                    android:layout_marginStart="10dp"
-                    android:layout_marginLeft="10dp"
                     app:cardCornerRadius="8dp"
                     app:cardElevation="8dp"
                     app:cardUseCompatPadding="true">
 
                     <LinearLayout
-                        android:layout_width="wrap_content"
-                        android:layout_height="wrap_content"
+                        android:layout_width="180dp"
+                        android:layout_height="160dp"
                         android:layout_gravity="center_vertical|center_horizontal"
                         android:gravity="center"
                         android:orientation="vertical">
@@ -271,8 +265,8 @@
                             android:src="@drawable/connectwithworkers" />
 
                         <TextView
-                            android:layout_width="wrap_content"
-                            android:layout_height="wrap_content"
+                            android:layout_width="192dp"
+                            android:layout_height="35dp"
                             android:gravity="center_horizontal"
                             android:padding="5dp"
                             android:text="Connect with workers"

@@ -66,7 +66,7 @@ public class customersCorner extends Fragment {
          btn.setOnClickListener(new View.OnClickListener() {
              @Override
              public void onClick(View v) {
-                 Intent intent=new Intent(getActivity(),Trade.class);
+                 Intent intent=new Intent(getActivity(),Buy.class);
                  intent.putExtra("key",1);
                  startActivity(intent);
              }

@@ -5,10 +5,7 @@ import android.os.Bundle;
 
 import androidx.cardview.widget.CardView;
 import androidx.fragment.app.Fragment;
-import androidx.fragment.app.FragmentManager;
-import androidx.fragment.app.FragmentTransaction;
 
-import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -75,7 +72,7 @@ public class ngoCorner extends Fragment {
         image1=v.findViewById(R.id.image1);
         image2=v.findViewById(R.id.image2);
         image0.setImageResource(R.drawable.streee);
-        image1.setImageResource(R.drawable.farmicon);
+        image1.setImageResource(R.drawable.farm);
         image2.setImageResource(R.drawable.aquaculture);
 
         try {

@@ -68,13 +68,13 @@
                         android:id="@+id/stree1"
                         android:layout_width="294dp"
                         android:layout_height="197dp"
-                        app:srcCompat="@drawable/stree2" />
+                        app:srcCompat="@drawable/stree_two" />
 
                     <ImageView
                         android:id="@+id/stree2"
                         android:layout_width="326dp"
                         android:layout_height="match_parent"
-                        app:srcCompat="@drawable/stree3" />
+                        app:srcCompat="@drawable/stree_three" />
                 </LinearLayout>
             </HorizontalScrollView>
 

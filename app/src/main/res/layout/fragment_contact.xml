@@ -93,7 +93,7 @@
             <EditText
                 android:id="@+id/message"
                 android:layout_width="match_parent"
-                android:layout_height="186dp"
+                android:layout_height="89dp"
                 android:ems="10"
                 android:inputType="textPersonName"
                 android:paddingLeft="10dp" />
