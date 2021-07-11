@@ -15,8 +15,7 @@ _Plese Run this app in light mode for best experience_
 <br />
 <br />
 
-
-##**This is Our App**<br />
+## **This Is Our App** <br />
 
 ![image](https://user-images.githubusercontent.com/76211430/125184617-f7e7a280-e23c-11eb-94fb-8511fbc17ff5.png)
 <br />
