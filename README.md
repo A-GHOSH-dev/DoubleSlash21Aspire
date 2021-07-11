@@ -14,6 +14,8 @@ _Plese Run this app in light mode for best experience_
 -Firebase Realtime Database<br />
 <br />
 <br />
+
+
 ##**This is Our App**<br />
 
 ![image](https://user-images.githubusercontent.com/76211430/125184617-f7e7a280-e23c-11eb-94fb-8511fbc17ff5.png)
@@ -27,7 +29,11 @@ The main Screen Where the user is requested to login and sign up,using Firebase 
 <br />
 <br />
 ## **Home Screen**<br />
+
+
 ![image](https://user-images.githubusercontent.com/76211430/125184674-5d3b9380-e23d-11eb-9fbb-2ea41d8d488d.png)
+
+
 <br />
 This is a small section about our motive
 <br />
@@ -79,26 +85,48 @@ The intrested customers can go to **Customer's Corner** And then Select the Prod
 The **NGOS corner** shows various NGOs and their motive we haven't added any of it as of now but will do when the we haves some datas from corresponding Ngos
 
 <br />
+
+
+
 ![image](https://user-images.githubusercontent.com/76211430/125184886-f0c19400-e23e-11eb-88fa-42ac8aedb829.png)
+
+
 <br />
 
 Again we have a **About Us** Section showing our plans and motives<br />
+
+
 ![image](https://user-images.githubusercontent.com/76211430/125184902-10f15300-e23f-11eb-8722-df71eed189ac.png)
 
 <br />
+
+
+
 ![image](https://user-images.githubusercontent.com/76211430/125184925-485fff80-e23f-11eb-9c54-ce839d38bc2d.png)
 
 <br />
 There is also a **News Corner** displaying news articles from websites ,for which we used webview<br />
+
+
+
 ![image](https://user-images.githubusercontent.com/76211430/125184931-4eee7700-e23f-11eb-8de6-ba677f186657.png)
 
 <br />
 Finally there is a section for user to **Reach Out to Us** for queries ands problems<br />
+
+
+
 ![image](https://user-images.githubusercontent.com/76211430/125184951-70e7f980-e23f-11eb-83e0-d8ef8b015639.png)
 
-We have enbled the feature to send us mails using _Intents_ in java
+<br />
+
+We have enbled the feature to send us mails using _Intents_ in java <br />
+
 
 ![image](https://user-images.githubusercontent.com/76211430/125184981-8fe68b80-e23f-11eb-8abe-5001df778cfe.png)
+
+
+<br />
 
 
 
