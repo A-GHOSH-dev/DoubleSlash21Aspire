@@ -3,7 +3,7 @@
 <br />
 
 
-_Open Our App branch for Apllication  files_<br />
+_Open Our App branch for Application  files_<br />
 
 
 <br/>
@@ -28,9 +28,10 @@ _Plese Run this app in light mode for best experience_
 
 ![image](https://user-images.githubusercontent.com/76211430/125184617-f7e7a280-e23c-11eb-94fb-8511fbc17ff5.png)
 <br />
-The main Screen Where the user is requested to login and sign up,using Firebase Aurthentication new users are added and existing Users are verified<br />
+The Main Screen Where the user is requested to login and sign up,using **Firebase Aurthentication new users are added and existing Users are verified all in realtime**<br />
 
 ![image](https://user-images.githubusercontent.com/76211430/125184661-34b39980-e23d-11eb-9ccf-d2b10f59712a.png)
+
 
 ![image](https://user-images.githubusercontent.com/76211430/125184666-3d0bd480-e23d-11eb-83c0-eb350b52219c.png)
 
@@ -46,7 +47,9 @@ The main Screen Where the user is requested to login and sign up,using Firebase 
 This is a small section about our motive
 <br />
 <br />
-####The rest of the app<br />
+#### he rest of the app<br />
+
+
 We used  a tab view to display rest of the apps content,additional features like recyclerview,Cardview,webview have also been use
 <br />
 <br />
