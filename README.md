@@ -2,6 +2,71 @@
 <br />
 <br />
 
+
+
+# Web App Work flow
+
+<br />
+<br />
+
+-The user has to sign in <br />
+-Data stored in django admin database<br />
+-The user has to login <br />
+-The farmer can buy sell rent the shopkeeper can upload his products and view the orders placed <br />
+-When the farmer places an order the shopkeeper recieves it at his website dashboard and recieves message in the phone with order details<br />
+-There is a payment gateway foe the farmers to pay<br />
+-There is customer dashboard where cutomers can buy produt directly from farmer<br />
+-There is a news segment where agricultural nes and government policies are updtaed<br />
+
+<br />
+
+![image](https://user-images.githubusercontent.com/76211430/125187199-0a1d0d00-e24c-11eb-9862-2e87dc269df2.png)
+
+
+<br />
+
+![image](https://user-images.githubusercontent.com/76211430/125187200-0e492a80-e24c-11eb-9634-3be032418714.png)
+
+
+<br />
+
+
+![image](https://user-images.githubusercontent.com/76211430/125187208-15703880-e24c-11eb-87ae-d17f1b47c6e9.png)
+
+
+<br />
+
+![image](https://user-images.githubusercontent.com/76211430/125187231-28830880-e24c-11eb-8ad2-e8041d416573.png)
+
+
+<br />
+
+![image](https://user-images.githubusercontent.com/76211430/125187237-2caf2600-e24c-11eb-8c2d-0c03a0e7b3fb.png)
+
+
+<br />
+
+![image](https://user-images.githubusercontent.com/76211430/125187240-3173da00-e24c-11eb-97cf-b1542f54d12f.png)
+
+
+
+<br />
+
+![image](https://user-images.githubusercontent.com/76211430/125187244-359ff780-e24c-11eb-9746-1409741cff9c.png)
+
+
+<br />
+
+![image](https://user-images.githubusercontent.com/76211430/125187249-3c2e6f00-e24c-11eb-9862-806f662d935a.png)
+
+
+<br />
+
+
+
+
+
+
 # APP <br />  
 
 <br />
