@@ -37,15 +37,33 @@ We used  a tab view to display rest of the apps content,additional features like
 <br />
 <br />
 The attached Images shows the **Farmer's Corner** Where in farmers under different categories can upload details about their products and themselves to be appraoched by customers for purchase
+
+
 <br />
+
+
+
 ![image](https://user-images.githubusercontent.com/76211430/125184742-f7034080-e23d-11eb-8b15-5e462e923934.png)
 <br />
+
+
+
 ![image](https://user-images.githubusercontent.com/76211430/125184745-fff41200-e23d-11eb-8fd0-feec7dec90c6.png)
 
 <br />
+
+
 ![image](https://user-images.githubusercontent.com/76211430/125184754-097d7a00-e23e-11eb-9af6-7cd4a89e4e25.png)
+
+
 <br />
+
+
+
 ![image](https://user-images.githubusercontent.com/76211430/125184763-113d1e80-e23e-11eb-9db0-cf6a1a680083.png)
+
+
+
 <br />
 The intrested customers can go to **Customer's Corner** And then Select the Product they want to buy from the list of the products available,Since the List and farmer products are made using **Firebase Realtime Database** it is automatically updated as soon as farmers add new product<br />
 
