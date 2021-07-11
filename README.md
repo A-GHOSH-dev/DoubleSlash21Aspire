@@ -1,4 +1,2 @@
 # DoubleSlash21Aspire
-asdff
-asdf
-asdf
+ANDROID APP :
